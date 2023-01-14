@@ -15,7 +15,7 @@ Icosphere class is adapted from http://www.songho.ca/opengl/gl_sphere.html#icosp
 Cubesphere class is adapted from http://www.songho.ca/opengl/gl_sphere.html#cubesphere
 
 ## Image
-Image by Peggy Stein via AdobeStock.
+Background Image by Peggy Stein via AdobeStock.
 
 ## Textures 
 Textures by https://freepbr.com/pbr-tutorials-resources/
