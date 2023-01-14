@@ -14,6 +14,12 @@ Icosphere class is adapted from http://www.songho.ca/opengl/gl_sphere.html#icosp
 ## Cubesphere Class
 Cubesphere class is adapted from http://www.songho.ca/opengl/gl_sphere.html#cubesphere
 
+## Image
+Image by Peggy Stein via AdobeStock.
+
+## Textures 
+Textures by https://freepbr.com/pbr-tutorials-resources/
+
 ## Source Code 
 Source code adapted from Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-c). https://learnopengl.com/
 https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
