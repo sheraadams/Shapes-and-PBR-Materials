@@ -8,18 +8,12 @@ Portfolio demonstration of various shapes and arrangements in an interactive 3d 
   <img width="" height="" src="https://user-images.githubusercontent.com/110789514/212475666-a4bd8844-b63a-42a8-ac3c-c68bd41c6b19.png">
 </p>
 
-## Icosphere Class
-Icosphere class is adapted from http://www.songho.ca/opengl/gl_sphere.html#icosphere
+## References
 
-## Cubesphere Class
-Cubesphere class is adapted from http://www.songho.ca/opengl/gl_sphere.html#cubesphere
+Ahn, S. H. (n.d.-b). OpenGL Sphere. http://www.songho.ca/opengl/gl_sphere.html
 
-## Image
-Background Image by Peggy Stein via AdobeStock.
+JoeyDeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 
-## Textures 
-Textures by https://freepbr.com/pbr-tutorials-resources/
+Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-d). https://learnopengl.com/
 
-## Source Code 
-Source code adapted from Learn OpenGL, extensive tutorial resource for learning Modern OpenGL. (n.d.-c). https://learnopengl.com/
-https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
+Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85/55/1000_F_45855551_fXtSph3RnoKsKTFHW0z1BRws8Gawj3QE.jpg
