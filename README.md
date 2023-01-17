@@ -1,5 +1,8 @@
 ## Documentation 
+
 Portfolio demonstration of various shapes and arrangements in an interactive 3d environment using multiple pbr textures.  
+
+Watch the video here: https://youtu.be/cYsfK4RsChs
 
 <p align="center">
   <img width="" height="" src="https://user-images.githubusercontent.com/110789514/212475661-a227c9b1-b5a1-40de-a591-401a390ed6ec.png">
@@ -9,6 +12,8 @@ Portfolio demonstration of various shapes and arrangements in an interactive 3d 
 </p>
 
 ## References
+
+Adams, Aaron (2014). Original Backing Track. https://www.youtube.com/watch?v=v_0w8-0QPhI
 
 Ahn, S. H. (n.d.-b). OpenGL Sphere. http://www.songho.ca/opengl/gl_sphere.html
 
